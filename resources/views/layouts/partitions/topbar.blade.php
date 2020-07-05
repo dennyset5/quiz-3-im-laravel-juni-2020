@@ -150,8 +150,8 @@
       <!-- Nav Item - User Information -->
       <li class="nav-item dropdown no-arrow">
         <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          <span class="mr-2 d-none d-lg-inline text-gray-600 small">Arkan Fauzan Ayyasyi</span>
-          <img class="img-profile rounded-circle" src="https://lh3.googleusercontent.com/ogw/ADGmqu8QEcwJ-oLcoLWrqluDVDSa7nVLuJp3wOg5kKL-=s83-c-mo">
+          <span class="mr-2 d-none d-lg-inline text-gray-600 small">Denny Setiawan</span>
+          <img class="img-profile rounded-circle" src="images/denny.png">
         </a>
         <!-- Dropdown - User Information -->
         <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in" aria-labelledby="userDropdown">
